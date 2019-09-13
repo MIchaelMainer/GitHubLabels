@@ -1,0 +1,818 @@
+[
+    {
+      "name": "A11yMAS",
+      "description": null,
+      "color": "bc2409"
+    },
+    {
+      "name": "A11yUsable",
+      "description": null,
+      "color": "bc2409"
+    },
+    {
+      "name": "Area: Accessibility",
+      "description": null,
+      "color": "1d76db"
+    },
+    {
+      "name": "Area: AMD Modules",
+      "description": null,
+      "color": "1d76db"
+    },
+    {
+      "name": "Area: Build System",
+      "description": null,
+      "color": "1d76db"
+    },
+    {
+      "name": "Area: Deprecation",
+      "description": null,
+      "color": "1d76db"
+    },
+    {
+      "name": "Area: DevExp",
+      "description": null,
+      "color": "1d76db"
+    },
+    {
+      "name": "Area: Documentation",
+      "description": null,
+      "color": "1d76db"
+    },
+    {
+      "name": "Area: Fabric Bot",
+      "description": null,
+      "color": "1d76db"
+    },
+    {
+      "name": "Area: Fluent",
+      "description": null,
+      "color": "1d76db"
+    },
+    {
+      "name": "Area: Fonts",
+      "description": null,
+      "color": "1d76db"
+    },
+    {
+      "name": "Area: Foundation",
+      "description": null,
+      "color": "1d76db"
+    },
+    {
+      "name": "Area: Icons",
+      "description": null,
+      "color": "1d76db"
+    },
+    {
+      "name": "Area: Internationalization",
+      "description": null,
+      "color": "1d76db"
+    },
+    {
+      "name": "Area: JS Styling",
+      "description": null,
+      "color": "1d76db"
+    },
+    {
+      "name": "Area: Keros",
+      "description": null,
+      "color": "1d76db"
+    },
+    {
+      "name": "Area: merge-styles",
+      "description": null,
+      "color": "1d76db"
+    },
+    {
+      "name": "Area: Narrator",
+      "description": null,
+      "color": "1d76db"
+    },
+    {
+      "name": "Area: Performance",
+      "description": null,
+      "color": "1d76db"
+    },
+    {
+      "name": "Area: Slots/Tokens Conversion",
+      "description": null,
+      "color": "1d76db"
+    },
+    {
+      "name": "Area: SPFx / Rush-Stack",
+      "description": null,
+      "color": "1d76db"
+    },
+    {
+      "name": "Area: Testing",
+      "description": null,
+      "color": "1d76db"
+    },
+    {
+      "name": "Area: Theming",
+      "description": null,
+      "color": "1d76db"
+    },
+    {
+      "name": "Area: Typescript",
+      "description": null,
+      "color": "1d76db"
+    },
+    {
+      "name": "Area: Website",
+      "description": null,
+      "color": "1d76db"
+    },
+    {
+      "name": "AutoMerge",
+      "description": null,
+      "color": "5949aa"
+    },
+    {
+      "name": "Component: Accordion",
+      "description": null,
+      "color": "0e8a16"
+    },
+    {
+      "name": "Component: ActivityItem",
+      "description": null,
+      "color": "0e8a16"
+    },
+    {
+      "name": "Component: Announced",
+      "description": null,
+      "color": "0e8a16"
+    },
+    {
+      "name": "Component: Autofill",
+      "description": null,
+      "color": "0e8a16"
+    },
+    {
+        "name": "Component: Breadcrumb",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: Button",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: Calendar",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: Callout",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: Card",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: Check",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: Checkbox",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: Chiclet",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: ChoiceGroup",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: Coachmark",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: CollapsibleSection",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: ColorPicker",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: ComboBox",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: CommandBar",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: ContextualMenu",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: Customizer",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: DatePicker",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: DetailsList",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: Dialog",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: Divider",
+        "description": null,
+        "color": "ededed"
+      },
+      {
+        "name": "Component: DocumentCard",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: Dropdown",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: ExtendedPicker",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: Fabric",
+        "description": null,
+        "color": "ededed"
+      },
+      {
+        "name": "Component: Facepile",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: FloatingPicker",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: FocusTrapZone",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: FocusZone",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: GroupedList",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: HoverCard",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: Icon",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: IconButton",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: Image",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: Keytip",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: KeytipData",
+        "description": null,
+        "color": "ededed"
+      },
+      {
+        "name": "Component: KeytipLayer",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: Label",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: Layer",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: Link",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: List",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: MarqueeSelection",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: MaskedTextField",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: MessageBar",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: Modal",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: Nav",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: OverflowSet",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: Overlay",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: Pagination",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: Panel",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: PeoplePicker",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: Persona",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: PersonaCoin",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: Pickers",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: Pivot",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: Popup",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: ProgressIndicator",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: Rating",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: ResizeGroup",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: ScrollablePane",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: SearchBox",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: SelectedItemsList",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: Selection",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: Separator",
+        "description": null,
+        "color": "ededed"
+      },
+      {
+        "name": "Component: Shimmer",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: Slider",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: SpinButton",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: Spinner",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: Stack",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: Sticky",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: StickyHeader",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: SwatchColorPicker",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: TagPicker",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: TeachingBubble",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: Text",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: TextField",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: Theme",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: Toggle",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Component: Tooltip",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "Fabric Next",
+        "description": null,
+        "color": "fef2c0"
+      },
+      {
+        "name": "Fabric 5",
+        "description": null,
+        "color": "fef2c0"
+      },
+      {
+        "name": "Fabric 6",
+        "description": null,
+        "color": "fef2c0"
+      },
+      {
+        "name": "Fabric 7",
+        "description": null,
+        "color": "fef2c0"
+      },
+      {
+        "name": "Good First Issue 🏆",
+        "description": null,
+        "color": "5319e7"
+      },
+      {
+        "name": "help wanted",
+        "description": null,
+        "color": "006b75"
+      },
+      {
+        "name": "Needs: Attention 👋",
+        "description": null,
+        "color": "8c51c3"
+      },
+      {
+        "name": "Needs: Author Feedback",
+        "description": null,
+        "color": "8c51c3"
+      },
+      {
+        "name": "Needs: Backlog review",
+        "description": null,
+        "color": "8C51C3"
+      },
+      {
+        "name": "Needs: Design 🎨",
+        "description": null,
+        "color": "8c51c3"
+      },
+      {
+        "name": "Needs: Discussion 🙋",
+        "description": null,
+        "color": "8c51c3"
+      },
+      {
+        "name": "Needs: Prototyping",
+        "description": null,
+        "color": "8c51c3"
+      },
+      {
+        "name": "Needs: Triage 🔍",
+        "description": null,
+        "color": "8c51c3"
+      },
+      {
+        "name": "Package: charting",
+        "description": null,
+        "color": "006b75"
+      },
+      {
+        "name": "Package: dashboard",
+        "description": null,
+        "color": "006b75"
+      },
+      {
+        "name": "Package: date-time",
+        "description": null,
+        "color": "006b75"
+      },
+      {
+        "name": "Package: experiments",
+        "description": null,
+        "color": "006b75"
+      },
+      {
+        "name": "package: file-type-icons",
+        "description": null,
+        "color": "006b75"
+      },
+      {
+        "name": "Package: fluent-theme",
+        "description": null,
+        "color": "006b75"
+      },
+      {
+        "name": "Package: migrations",
+        "description": null,
+        "color": "f9a38e"
+      },
+      {
+        "name": "Package: styling",
+        "description": null,
+        "color": "006b75"
+      },
+      {
+        "name": "Package: tslint-rules",
+        "description": null,
+        "color": "006b75"
+      },
+      {
+        "name": "Package: utilities",
+        "description": null,
+        "color": "006b75"
+      },
+      {
+        "name": "Partner Ask",
+        "description": null,
+        "color": "1d76db"
+      },
+      {
+        "name": "Platform: Chrome Android",
+        "description": null,
+        "color": "fbca04"
+      },
+      {
+        "name": "Platform: Chrome",
+        "description": null,
+        "color": "fbca04"
+      },
+      {
+        "name": "Platform: Firefox",
+        "description": null,
+        "color": "fbca04"
+      },
+      {
+        "name": "Platform: IE11",
+        "description": null,
+        "color": "fbca04"
+      },
+      {
+        "name": "Platform: Microsoft Edge",
+        "description": null,
+        "color": "fbca04"
+      },
+      {
+        "name": "Platform: Safari",
+        "description": null,
+        "color": "fbca04"
+      },
+      {
+        "name": "PR: API Modified",
+        "description": null,
+        "color": "5949aa"
+      },
+      {
+        "name": "PR: Possible Perf Regression 🐌",
+        "description": null,
+        "color": "5949aa"
+      },
+      {
+        "name": "Priority 0: Blocking",
+        "description": null,
+        "color": "b60205"
+      },
+      {
+        "name": "Priority 1: ASAP",
+        "description": null,
+        "color": "d93f0b"
+      },
+      {
+        "name": "Priority 2: Normal",
+        "description": null,
+        "color": "fbca04"
+      },
+      {
+        "name": "Priority 3: Fit and finish",
+        "description": null,
+        "color": "fbca04"
+      },
+      {
+        "name": "Resolution: By Design",
+        "description": null,
+        "color": "ef699f"
+      },
+      {
+        "name": "Resolution: Can't Repro",
+        "description": null,
+        "color": "ef699f"
+      },
+      {
+        "name": "Resolution: Duplicate",
+        "description": null,
+        "color": "ef699f"
+      },
+      {
+        "name": "Resolution: External",
+        "description": null,
+        "color": "ef699f"
+      },
+      {
+        "name": "Resolution: Not An Issue",
+        "description": null,
+        "color": "ef699f"
+      },
+      {
+        "name": "Screen-size: small-screen",
+        "description": null,
+        "color": "d4c5f9"
+      },
+      {
+        "name": "Status: Blocked",
+        "description": null,
+        "color": "e05e57"
+      },
+      {
+        "name": "Status: Do Not Merge 🚫",
+        "description": null,
+        "color": "d93f0b"
+      },
+      {
+        "name": "Status: Fixed",
+        "description": null,
+        "color": "74cde1"
+      },
+      {
+        "name": "Status: In PR",
+        "description": null,
+        "color": "74cde1"
+      },
+      {
+        "name": "Status: No Recent Activity",
+        "description": null,
+        "color": "bbbbbb"
+      },
+      {
+        "name": "Theme Designer",
+        "description": null,
+        "color": "ff7034"
+      },
+      {
+        "name": "Type: Bug 🐛",
+        "description": null,
+        "color": "ee0701"
+      },
+      {
+        "name": "Type: Cleanup",
+        "description": null,
+        "color": "ee0701"
+      },
+      {
+        "name": "Type: Documentation",
+        "description": null,
+        "color": "ee0701"
+      },
+      {
+        "name": "Type: Epic",
+        "description": null,
+        "color": "ee0701"
+      },
+      {
+        "name": "Type: Feature",
+        "description": null,
+        "color": "ee0701"
+      },
+      {
+        "name": "Type: Question ❔",
+        "description": null,
+        "color": "ee0701"
+      },
+      {
+        "name": "Type: Regression 🌩🌩",
+        "description": null,
+        "color": "ee0701"
+      }
+
+  ]
