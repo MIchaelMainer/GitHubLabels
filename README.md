@@ -12,7 +12,11 @@ Sort
 https://codeshack.io/json-sorter/
 
 **Master_labels.json** - The master labels to be used across Microsoft Graph clients, web sites, and services.
+
 **SDK_labels.json** - The labels to be used in all SDK repos.
+
 **Services_labels.json** - The labels to be used in all service repos.
+
 **Website_labels.json** - The labels to be used in all web site repos.
+
 **Tools_labels.json** - The labels to be used in all tool repos.
