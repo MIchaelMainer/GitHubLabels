@@ -1,0 +1,317 @@
+[
+    {
+      "name": "0",
+      "description": null,
+      "color": "77f48e"
+    },
+    {
+      "name": "1",
+      "description": null,
+      "color": "77f48e"
+    },
+    {
+      "name": "2",
+      "description": null,
+      "color": "77f48e"
+    },
+    {
+      "name": "3",
+      "description": null,
+      "color": "77f48e"
+    },
+    {
+      "name": "4",
+      "description": null,
+      "color": "77f48e"
+    },
+    {
+      "name": "area: authentication",
+      "description": null,
+      "color": "1d76db"
+    },
+    {
+      "name": "area: azure",
+      "description": null,
+      "color": "1d76db"
+    },
+    {
+      "name": "area: azureAD",
+      "description": null,
+      "color": "3a53c1"
+    },
+    {
+      "name": "area: dynamics",
+      "description": null,
+      "color": "1d76db"
+    },
+    {
+      "name": "area: edu",
+      "description": null,
+      "color": "1d76db"
+    },
+    {
+      "name": "area: excel",
+      "description": null,
+      "color": "1d76db"
+    },
+    {
+      "name": "area: office reports",
+      "description": null,
+      "color": "1d76db"
+    },
+    {
+      "name": "area: onedrive",
+      "description": null,
+      "color": "1d76db"
+    },
+    {
+      "name": "area: onenote",
+      "description": null,
+      "color": "1d76db"
+    },
+    {
+      "name": "area: outlook",
+      "description": null,
+      "color": "1d76db"
+    },
+    {
+      "name": "area: planner",
+      "description": null,
+      "color": "1d76db"
+    },
+    {
+      "name": "area: rome",
+      "description": null,
+      "color": "1d76db"
+    },
+    {
+      "name": "area: sharepoint",
+      "description": null,
+      "color": "1d76db"
+    },
+    {
+      "name": "area: teams",
+      "description": null,
+      "color": "1d76db"
+    },
+    {
+      "name": "auth",
+      "description": null,
+      "color": "bfdadc"
+    },
+    {
+      "name": "blocker",
+      "description": null,
+      "color": "d83b01"
+    },
+    {
+      "name": "breaking change",
+      "description": null,
+      "color": "fc2929"
+    },
+    {
+      "name": "bug: documentation",
+      "description": null,
+      "color": "d83b01"
+    },
+    {
+      "name": "bug: product",
+      "description": null,
+      "color": "d83b01"
+    },
+    {
+      "name": "bug: sample",
+      "description": null,
+      "color": "d83b01"
+    },
+    {
+      "name": "by design",
+      "description": null,
+      "color": "cccccc"
+    },
+    {
+      "name": "client bug",
+      "description": null,
+      "color": "fc2929"
+    },
+    {
+      "name": "donotmerge",
+      "description": null,
+      "color": "f7eca5"
+    },
+    {
+      "name": "duplicate",
+      "description": null,
+      "color": "cccccc"
+    },
+    {
+      "name": "enhancement (client)",
+      "description": null,
+      "color": "84b6eb"
+    },
+    {
+        "name": "enhancement (service)",
+        "description": null,
+        "color": "bfd4f2"
+      },
+      {
+        "name": "external",
+        "description": null,
+        "color": "cccccc"
+      },
+      {
+        "name": "fix checked in",
+        "description": null,
+        "color": "f9d0c4"
+      },
+      {
+        "name": "fixed",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "fun",
+        "description": null,
+        "color": "5319e7"
+      },
+      {
+        "name": "generated",
+        "description": null,
+        "color": "ededed"
+      },
+      {
+        "name": "good first issue",
+        "description": null,
+        "color": "5319e7"
+      },
+      {
+        "name": "help wanted",
+        "description": null,
+        "color": "159818"
+      },
+      {
+        "name": "high impact",
+        "description": null,
+        "color": "b60205"
+      },
+      {
+        "name": "in progress",
+        "description": null,
+        "color": "ededed"
+      },
+      {
+        "name": "invalid",
+        "description": null,
+        "color": "e6e6e6"
+      },
+      {
+        "name": "loc (localization issue)",
+        "description": null,
+        "color": "cccccc"
+      },
+      {
+        "name": "Needs: Attention 👋",
+        "description": null,
+        "color": "ededed"
+      },
+      {
+        "name": "Needs: Author Feedback",
+        "description": null,
+        "color": "8585e5"
+      },
+      {
+        "name": "needs more info",
+        "description": null,
+        "color": "fbca04"
+      },
+      {
+        "name": "not actionable",
+        "description": null,
+        "color": "cccccc"
+      },
+      {
+        "name": "on hold",
+        "description": null,
+        "color": "7b9df2"
+      },
+      {
+        "name": "question",
+        "description": null,
+        "color": "cc317c"
+      },
+      {
+        "name": "request: awaiting validation",
+        "description": null,
+        "color": "d93f0b"
+      },
+      {
+        "name": "request: documentation",
+        "description": null,
+        "color": "d93f0b"
+      },
+      {
+        "name": "request: feature",
+        "description": null,
+        "color": "d93f0b"
+      },
+      {
+        "name": "request: sample",
+        "description": null,
+        "color": "d93f0b"
+      },
+      {
+        "name": "resolved: awaiting prod deployment",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "resolved: awaiting validation",
+        "description": null,
+        "color": "0e8a16"
+      },
+      {
+        "name": "service bug",
+        "description": null,
+        "color": "d93f0b"
+      },
+      {
+        "name": "SO",
+        "description": null,
+        "color": "5319e7"
+      },
+      {
+        "name": "stack overflow",
+        "description": null,
+        "color": "fbca04"
+      },
+      {
+        "name": "task",
+        "description": null,
+        "color": "e99695"
+      },
+      {
+        "name": "ToTriage",
+        "description": null,
+        "color": "c60b9b"
+      },
+      {
+        "name": "tracked",
+        "description": null,
+        "color": "d4c5f9"
+      },
+      {
+        "name": "under investigation",
+        "description": null,
+        "color": "fbca04"
+      },
+      {
+        "name": "won't fix",
+        "description": null,
+        "color": "cccccc"
+      },
+      {
+        "name": "wontfix",
+        "description": null,
+        "color": "ffffff"
+      }
+  ]
