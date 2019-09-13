@@ -1,0 +1,333 @@
+[
+	{
+		"name": "Bug: Client",
+		"description": null,
+		"color": "d83b01"
+	},
+	{
+		"name": "Bug: Documentation",
+		"description": null,
+		"color": "d83b01"
+	},
+
+	{
+		"name": "Bug: Sample",
+		"description": null,
+		"color": "d83b01"
+	},
+	{
+		"name": "Bug: Service",
+		"description": null,
+		"color": "d83b01"
+	},
+	{
+		"name": "Enhancement: Client",
+		"description": null,
+		"color": "84b6eb"
+	},
+	{
+		"name": "Enhancement: Service",
+		"description": null,
+		"color": "84b6eb"
+	},
+	{
+		"name": "Needs: Attention 👋",
+		"description": null,
+		"color": "ededed"
+	},
+	{
+		"name": "Needs: Author Feedback",
+		"description": null,
+		"color": "8585e5"
+	},
+	{
+		"name": "Request: Awaiting Validation",
+		"description": null,
+		"color": "d93f0b"
+	},
+	{
+		"name": "Request: Documentation",
+		"description": null,
+		"color": "d93f0b"
+	},
+	{
+		"name": "Request: Feature",
+		"description": null,
+		"color": "d93f0b"
+	},
+	{
+		"name": "Request: Sample",
+		"description": null,
+		"color": "d93f0b"
+	},
+	{
+		"name": "Resolved: Awaiting Deployment",
+		"description": null,
+		"color": "0e8a16"
+	},
+	{
+		"name": "Resolved: Awaiting Validation",
+		"description": null,
+		"color": "0e8a16"
+	},
+	{
+		"name": "Status: In Progress",
+		"description": null,
+		"color": "ededed"
+	},
+	{
+		"name": "Status: Needs Investigation",
+		"description": null,
+		"color": "fbca04"
+	},
+	{
+		"name": "Status: To Triage",
+		"description": null,
+		"color": "c60b9b"
+	},
+	{
+		"name": "Status: Under Investigation",
+		"description": null,
+		"color": "fbca04"
+	},
+	{
+		"name": "Status: Won't Fix",
+		"description": null,
+		"color": "fbca04"
+	},
+	{
+		"name": "Type: Breaking Change",
+		"description": null,
+		"color": "fc2929"
+	},
+	{
+		"name": "Type: Question",
+		"description": null,
+		"color": "cc317c"
+	},
+	{
+		"name": "Workload: AppCatalogs",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: AuditLogs",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: Authentication",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: Azure",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: AzureAD",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: Contracts",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: DeviceAppManagement",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: DeviceManagement",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: Devices",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: DirectoryRoleTemplates",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: DirectoryRoles",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: DomainDnsRecords",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: Domains",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: Dynamics",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: Edu",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: Excel",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: Groups",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: Office reports",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: OneDrive",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: OneNote",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: Organization",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: Outlook",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: Planner",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: Rome",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: Security",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: Sharepoint",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: Subscriptions",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: Teams",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "by design",
+		"description": null,
+		"color": "cccccc"
+	},
+	{
+		"name": "donotmerge",
+		"description": null,
+		"color": "f7eca5"
+	},
+	{
+		"name": "duplicate",
+		"description": null,
+		"color": "cccccc"
+	},
+	{
+		"name": "external",
+		"description": null,
+		"color": "cccccc"
+	},
+	{
+		"name": "fix checked in",
+		"description": null,
+		"color": "f9d0c4"
+	},
+	{
+		"name": "fixed",
+		"description": null,
+		"color": "0e8a16"
+	},
+	{
+		"name": "fun",
+		"description": null,
+		"color": "5319e7"
+	},
+	{
+		"name": "generated",
+		"description": null,
+		"color": "ededed"
+	},
+	{
+		"name": "good first issue",
+		"description": null,
+		"color": "5319e7"
+	},
+	{
+		"name": "help wanted",
+		"description": null,
+		"color": "159818"
+	},
+	{
+		"name": "high impact",
+		"description": null,
+		"color": "b60205"
+	},
+	{
+		"name": "invalid",
+		"description": null,
+		"color": "e6e6e6"
+	},
+	{
+		"name": "needs more info",
+		"description": null,
+		"color": "fbca04"
+	},
+	{
+		"name": "not actionable",
+		"description": null,
+		"color": "cccccc"
+	},
+	{
+		"name": "on hold",
+		"description": null,
+		"color": "7b9df2"
+	},
+	{
+		"name": "task",
+		"description": null,
+		"color": "e99695"
+	},
+	{
+		"name": "tracked",
+		"description": null,
+		"color": "d4c5f9"
+	}
+]

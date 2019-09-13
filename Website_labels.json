@@ -1,0 +1,12 @@
+[
+	{
+		"name": "Bug: Accessibility",
+		"description": "This issue affects the site's accessibility.",
+		"color": "cccccc"
+    },
+    {
+		"name": "Bug: Localization",
+		"description": null,
+		"color": "cccccc"
+	}
+]

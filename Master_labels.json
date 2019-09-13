@@ -1,0 +1,312 @@
+[
+	{
+		"name": "Bug: Accessibility",
+		"description": "An issue that affects the site's accessibility.",
+		"color": "cccccc"
+	},
+	{
+		"name": "Bug: Automation",
+		"description": "An issue with CI/CD.",
+		"color": "d83b01"
+	},
+	{
+		"name": "Bug: Client",
+		"description": null,
+		"color": "d83b01"
+	},
+	{
+		"name": "Bug: Documentation",
+		"description": null,
+		"color": "d83b01"
+	},
+	{
+		"name": "Bug: Localization",
+		"description": "An issue with the sites localization features.",
+		"color": "cccccc"
+	},
+	{
+		"name": "Bug: Sample",
+		"description": null,
+		"color": "d83b01"
+	},
+	{
+		"name": "Bug: Service",
+		"description": null,
+		"color": "d83b01"
+    },
+	{
+		"name": "Bug: UI",
+		"description": null,
+		"color": "d83b01"
+	},
+	{
+		"name": "Enhancement: Client",
+		"description": "",
+		"color": "84b6eb"
+	},
+	{
+		"name": "Enhancement: Service",
+		"description": null,
+		"color": "84b6eb"
+	},
+	{
+		"name": "Generated",
+		"description": "The files have been generated using a tool.",
+		"color": "ededed"
+	},
+	{
+		"name": "Good First Issue",
+		"description": null,
+		"color": "5319e7"
+	},
+	{
+		"name": "Needs: Attention 👋",
+		"description": null,
+		"color": "ededed"
+	},
+	{
+		"name": "Needs: Author Feedback",
+		"description": null,
+		"color": "8585e5"
+	},
+	{
+		"name": "Request: Awaiting Validation",
+		"description": null,
+		"color": "d93f0b"
+	},
+	{
+		"name": "Request: Documentation",
+		"description": null,
+		"color": "d93f0b"
+	},
+	{
+		"name": "Request: Feature",
+		"description": "A feature request for an SDK, web application, or service.",
+		"color": "d93f0b"
+	},
+	{
+		"name": "Request: Sample",
+		"description": "A sample is needed to demonstrate the API usage.",
+		"color": "d93f0b"
+	},
+	{
+		"name": "Resolved: Awaiting Deployment",
+		"description": "The work has completed and is awaiting deployment to the server.",
+		"color": "0e8a16"
+	},
+	{
+		"name": "Resolved: Awaiting Publication",
+		"description": "The work has been completed and is awaiting publication to the package manager.",
+		"color": "0e8a16"
+	},
+	{
+		"name": "Resolved: Awaiting Validation",
+		"description": null,
+		"color": "0e8a16"
+	},
+	{
+		"name": "Status: By Design",
+		"description": null,
+		"color": "cccccc"
+	},
+	{
+		"name": "Status: Do Not Merge",
+		"description": null,
+		"color": "f7eca5"
+	},
+	{
+		"name": "Status: Duplicate",
+		"description": null,
+		"color": "cccccc"
+	},
+	{
+		"name": "Status: Fix Checked In",
+		"description": null,
+		"color": "f9d0c4"
+	},
+	{
+		"name": "Status: In Progress",
+		"description": null,
+		"color": "c60b9b"
+	},
+	{
+		"name": "Status: Needs Investigation",
+		"description": null,
+		"color": "c60b9b"
+	},
+	{
+		"name": "Status: Needs More Info",
+		"description": null,
+		"color": "fbca04"
+	},
+	{
+		"name": "Status: On Hold",
+		"description": null,
+		"color": "7b9df2"
+	},
+	{
+		"name": "Status: To Triage",
+		"description": null,
+		"color": "c60b9b"
+	},
+	{
+		"name": "Status: Under Investigation",
+		"description": null,
+		"color": "c60b9b"
+	},
+	{
+		"name": "Status: Won't Fix",
+		"description": null,
+		"color": "c60b9b"
+	},
+	{
+		"name": "Type: Breaking Change",
+		"description": null,
+		"color": "fc2929"
+	},
+	{
+		"name": "Type: Question",
+		"description": null,
+		"color": "cc317c"
+	},
+	{
+		"name": "Workload: AppCatalogs",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: AuditLogs",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: Authentication",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: Azure",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: AzureAD",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: Contracts",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: DeviceAppManagement",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: DeviceManagement",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: Devices",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: DirectoryRoleTemplates",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: DirectoryRoles",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: DomainDnsRecords",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: Domains",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: Dynamics",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: Edu",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: Excel",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: Groups",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: Office reports",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: OneDrive",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: OneNote",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: Organization",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: Outlook",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: Planner",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: Rome",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: Security",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: Sharepoint",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: Subscriptions",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Workload: Teams",
+		"description": null,
+		"color": "1d76db"
+	}
+]
