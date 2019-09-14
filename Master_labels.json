@@ -1,8 +1,158 @@
 [
 	{
+		"name": "Area: AppCatalogs",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Area: AuditLogs",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Area: Authentication",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Area: Automation",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Area: Azure",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Area: AzureAD",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Area: Contracts",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Area: DeviceAppManagement",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Area: DeviceManagement",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Area: Devices",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Area: DirectoryRoleTemplates",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Area: DirectoryRoles",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Area: DomainDnsRecords",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Area: Domains",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Area: Dynamics",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Area: Edu",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Area: Excel",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Area: Groups",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Area: Office reports",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Area: OneDrive",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Area: OneNote",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Area: Organization",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Area: Outlook",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Area: Planner",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Area: Rome",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Area: Security",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Area: Sharepoint",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Area: Subscriptions",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Area: Teams",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
+		"name": "Area: Test",
+		"description": null,
+		"color": "1d76db"
+	},
+	{
 		"name": "Bug: Accessibility",
 		"description": "An issue that affects the site's accessibility.",
-		"color": "cccccc"
+		"color": "d83b01"
 	},
 	{
 		"name": "Bug: Automation",
@@ -11,42 +161,77 @@
 	},
 	{
 		"name": "Bug: Client",
-		"description": null,
+		"description": "An issue with the client library.",
+		"color": "d83b01"
+	},
+	{
+		"name": "Bug: Dependency",
+		"description": "An issue with a client dependency.",
 		"color": "d83b01"
 	},
 	{
 		"name": "Bug: Documentation",
-		"description": null,
+		"description": "An issue with the documentation.",
 		"color": "d83b01"
 	},
 	{
 		"name": "Bug: Localization",
 		"description": "An issue with the sites localization features.",
-		"color": "cccccc"
+		"color": "d83b01"
 	},
 	{
 		"name": "Bug: Sample",
-		"description": null,
+		"description": "An issue with a sample.",
 		"color": "d83b01"
 	},
 	{
 		"name": "Bug: Service",
-		"description": null,
-		"color": "d83b01"
-    },
-	{
-		"name": "Bug: UI",
-		"description": null,
+		"description": "An issue with the service API.",
 		"color": "d83b01"
 	},
 	{
+		"name": "Bug: UI",
+		"description": "An issue with the web sites UI.",
+		"color": "d83b01"
+	},
+	{
+		"name": "Component: Auth",
+		"description": null,
+		"color": "0e8a16"
+	},
+	{
+		"name": "Component: Client",
+		"description": null,
+		"color": "0e8a16"
+	},
+	{
+		"name": "Component: Middleware",
+		"description": null,
+		"color": "0e8a16"
+	},
+	{
+		"name": "Component: Models",
+		"description": null,
+		"color": "0e8a16"
+	},
+	{
+		"name": "Component: Request Builder",
+		"description": null,
+		"color": "0e8a16"
+	},
+	{
+		"name": "Component: Serializer",
+		"description": null,
+		"color": "0e8a16"
+	},
+	{
 		"name": "Enhancement: Client",
-		"description": "",
+		"description": "The issue represents a client enhancement.",
 		"color": "84b6eb"
 	},
 	{
 		"name": "Enhancement: Service",
-		"description": null,
+		"description": "The issue represents a service enhancement.",
 		"color": "84b6eb"
 	},
 	{
@@ -55,28 +240,58 @@
 		"color": "ededed"
 	},
 	{
+		"name": "Generator: Templates",
+		"description": null,
+		"color": "b60205"
+	},
+	{
+		"name": "Generator: Template Processor",
+		"description": null,
+		"color": "b60205"
+	},
+	{
+		"name": "Generator: VIPR",
+		"description": null,
+		"color": "b60205"
+	},
+	{
+		"name": "Generator: Metadata Preprocessor",
+		"description": null,
+		"color": "b60205"
+	},
+	{
 		"name": "Good First Issue",
 		"description": null,
 		"color": "5319e7"
 	},
 	{
 		"name": "Needs: Attention 👋",
-		"description": null,
-		"color": "ededed"
+		"description": "The repo owner needs to respond to the original poster's comment.",
+		"color": "8c51c3"
 	},
 	{
 		"name": "Needs: Author Feedback",
-		"description": null,
-		"color": "8585e5"
+		"description": "The original poster needs to provide a response.",
+		"color": "8c51c3"
+	},
+	{
+		"name": "Needs: Design 🎨",
+		"description": "The issue requires a design artifact.",
+		"color": "8c51c3"
+	},
+	{
+		"name": "Needs: Triage 🔍",
+		"description": "The issue needs to be triaged.",
+		"color": "8c51c3"
 	},
 	{
 		"name": "Request: Awaiting Validation",
-		"description": null,
+		"description": "",
 		"color": "d93f0b"
 	},
 	{
 		"name": "Request: Documentation",
-		"description": null,
+		"description": "The issue represents a request for documentation.",
 		"color": "d93f0b"
 	},
 	{
@@ -88,6 +303,26 @@
 		"name": "Request: Sample",
 		"description": "A sample is needed to demonstrate the API usage.",
 		"color": "d93f0b"
+	},
+	{
+		"name": "Resolution: By Design",
+		"description": null,
+		"color": "ef699f"
+	},
+	{
+		"name": "Resolution: Can't Repro",
+		"description": null,
+		"color": "ef699f"
+	},
+	{
+		"name": "Resolution: Duplicate",
+		"description": null,
+		"color": "ef699f"
+	},
+	{
+		"name": "Resolution: Not An Issue",
+		"description": null,
+		"color": "ef699f"
 	},
 	{
 		"name": "Resolved: Awaiting Deployment",
@@ -105,14 +340,24 @@
 		"color": "0e8a16"
 	},
 	{
+		"name": "Status: Blocked",
+		"description": null,
+		"color": "cccccc"
+	},
+	{
 		"name": "Status: By Design",
 		"description": null,
 		"color": "cccccc"
 	},
 	{
-		"name": "Status: Do Not Merge",
+		"name": "Status: Completed",
 		"description": null,
-		"color": "f7eca5"
+		"color": "cccccc"
+	},
+	{
+		"name": "Status: Do Not Merge 🚫",
+		"description": null,
+		"color": "cccccc"
 	},
 	{
 		"name": "Status: Duplicate",
@@ -122,191 +367,71 @@
 	{
 		"name": "Status: Fix Checked In",
 		"description": null,
-		"color": "f9d0c4"
+		"color": "cccccc"
+	},
+	{
+		"name": "Status: Fixed",
+		"description": null,
+		"color": "cccccc"
+	},
+	{
+		"name": "Status: In PR",
+		"description": null,
+		"color": "cccccc"
 	},
 	{
 		"name": "Status: In Progress",
 		"description": null,
-		"color": "c60b9b"
+		"color": "cccccc"
 	},
 	{
 		"name": "Status: Needs Investigation",
 		"description": null,
-		"color": "c60b9b"
+		"color": "cccccc"
 	},
 	{
 		"name": "Status: Needs More Info",
 		"description": null,
-		"color": "fbca04"
+		"color": "cccccc"
 	},
 	{
 		"name": "Status: On Hold",
 		"description": null,
-		"color": "7b9df2"
+		"color": "cccccc"
 	},
 	{
 		"name": "Status: To Triage",
 		"description": null,
-		"color": "c60b9b"
+		"color": "cccccc"
 	},
 	{
 		"name": "Status: Under Investigation",
 		"description": null,
-		"color": "c60b9b"
+		"color": "cccccc"
 	},
 	{
 		"name": "Status: Won't Fix",
 		"description": null,
-		"color": "c60b9b"
+		"color": "cccccc"
 	},
 	{
 		"name": "Type: Breaking Change",
 		"description": null,
-		"color": "fc2929"
+		"color": "ee0701"
 	},
 	{
-		"name": "Type: Question",
+		"name": "Type: Documentation",
 		"description": null,
-		"color": "cc317c"
+		"color": "ee0701"
 	},
 	{
-		"name": "Workload: AppCatalogs",
+		"name": "Type: Question ❔",
 		"description": null,
-		"color": "1d76db"
+		"color": "ee0701"
 	},
 	{
-		"name": "Workload: AuditLogs",
+		"name": "Type: Regression 🌩🌩",
 		"description": null,
-		"color": "1d76db"
-	},
-	{
-		"name": "Workload: Authentication",
-		"description": null,
-		"color": "1d76db"
-	},
-	{
-		"name": "Workload: Azure",
-		"description": null,
-		"color": "1d76db"
-	},
-	{
-		"name": "Workload: AzureAD",
-		"description": null,
-		"color": "1d76db"
-	},
-	{
-		"name": "Workload: Contracts",
-		"description": null,
-		"color": "1d76db"
-	},
-	{
-		"name": "Workload: DeviceAppManagement",
-		"description": null,
-		"color": "1d76db"
-	},
-	{
-		"name": "Workload: DeviceManagement",
-		"description": null,
-		"color": "1d76db"
-	},
-	{
-		"name": "Workload: Devices",
-		"description": null,
-		"color": "1d76db"
-	},
-	{
-		"name": "Workload: DirectoryRoleTemplates",
-		"description": null,
-		"color": "1d76db"
-	},
-	{
-		"name": "Workload: DirectoryRoles",
-		"description": null,
-		"color": "1d76db"
-	},
-	{
-		"name": "Workload: DomainDnsRecords",
-		"description": null,
-		"color": "1d76db"
-	},
-	{
-		"name": "Workload: Domains",
-		"description": null,
-		"color": "1d76db"
-	},
-	{
-		"name": "Workload: Dynamics",
-		"description": null,
-		"color": "1d76db"
-	},
-	{
-		"name": "Workload: Edu",
-		"description": null,
-		"color": "1d76db"
-	},
-	{
-		"name": "Workload: Excel",
-		"description": null,
-		"color": "1d76db"
-	},
-	{
-		"name": "Workload: Groups",
-		"description": null,
-		"color": "1d76db"
-	},
-	{
-		"name": "Workload: Office reports",
-		"description": null,
-		"color": "1d76db"
-	},
-	{
-		"name": "Workload: OneDrive",
-		"description": null,
-		"color": "1d76db"
-	},
-	{
-		"name": "Workload: OneNote",
-		"description": null,
-		"color": "1d76db"
-	},
-	{
-		"name": "Workload: Organization",
-		"description": null,
-		"color": "1d76db"
-	},
-	{
-		"name": "Workload: Outlook",
-		"description": null,
-		"color": "1d76db"
-	},
-	{
-		"name": "Workload: Planner",
-		"description": null,
-		"color": "1d76db"
-	},
-	{
-		"name": "Workload: Rome",
-		"description": null,
-		"color": "1d76db"
-	},
-	{
-		"name": "Workload: Security",
-		"description": null,
-		"color": "1d76db"
-	},
-	{
-		"name": "Workload: Sharepoint",
-		"description": null,
-		"color": "1d76db"
-	},
-	{
-		"name": "Workload: Subscriptions",
-		"description": null,
-		"color": "1d76db"
-	},
-	{
-		"name": "Workload: Teams",
-		"description": null,
-		"color": "1d76db"
+		"color": "ee0701"
 	}
 ]

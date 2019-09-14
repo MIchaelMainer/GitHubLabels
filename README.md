@@ -11,6 +11,12 @@ https://gist.github.com/MoOx/93c2853fee760f42d97f#gistcomment-2627419
 Sort
 https://codeshack.io/json-sorter/
 
+Import labels
+
+Sync labels across repos, delete labels.
+https://github.com/matomo-org/github-sync
+This works great!
+
 **Master_labels.json** - The master labels to be used across Microsoft Graph clients, web sites, and services.
 
 **SDK_labels.json** - The labels to be used in all SDK repos.
