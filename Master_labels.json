@@ -175,6 +175,11 @@
 		"color": "d83b01"
 	},
 	{
+		"name": "Bug: Generation",
+		"description": "An issue with the code file generator.",
+		"color": "d83b01"
+	},
+	{
 		"name": "Bug: Localization",
 		"description": "An issue with the sites localization features.",
 		"color": "d83b01"
