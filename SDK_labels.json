@@ -9,7 +9,11 @@
 		"description": null,
 		"color": "d83b01"
 	},
-
+	{
+		"name": "Bug: Non-conformance",
+		"description": "Service API does't conform to formal or informal standards for API behavior or form.",
+		"color": "d83b01"
+	},
 	{
 		"name": "Bug: Sample",
 		"description": null,
